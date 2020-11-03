@@ -1,0 +1,3 @@
+include ':androidToolsLib'
+include ':app'
+rootProject.name = "toolsApp"
